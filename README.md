@@ -8,10 +8,27 @@
 ## Notebooks
 
 ### Run By Yourself
-* [JupyterLab](https://jupyter.org) - IDE with support for notebooks
+* [JupyterLab](https://jupyter.org)
+  * 🢂 IDE with support for notebooks
 
 ### Hosted Solutions
-* [Binder](https://mybinder.org) - Allows execution of notebooks from GitHub etc. (takes some time to rebuild after commits to the notebook)
-* [Deepnote](https://www.deepnote.com) - Allows execution and real-time collaboration of notebooks (requires account for now)
-* [Colaboratory](https://colab.research.google.com) - Allows execution of notebooks (fast, but requires sign-in for execution)
-* [nbviewer](https://nbviewer.jupyter.org) - Renders notebooks from any public URL (faster than via GitHub preview)
+* [Binder](https://mybinder.org)
+  * ✅ Interactive execution 
+  * ✅ No account required
+  * 🢂 Notebook needs to be hosted on GitHub (or similar)
+  * ❌ Takes some time to rebuild after commits to the notebook
+* [Deepnote](https://www.deepnote.com)
+  * ✅ Interactive execution 
+  * ✅ Real-time collaboration
+  * ❌ Requires account
+* [Colaboratory](https://colab.research.google.com)
+  * ✅ Interactive execution 
+  * ✅ Notebook import from GitHub without account possible
+  * ❌ Requires account for execution
+* [nbviewer](https://nbviewer.jupyter.org)
+  * ✅ Any public URL works as notebook location
+  * ✅ Faster than GitHub
+  * ❌ No interactive execution
+* [GitHub](https://github.com)
+  * 🢂 Renders notebooks from repositories automatically
+  * ❌ No interactive execution

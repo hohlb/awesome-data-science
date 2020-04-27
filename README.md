@@ -12,6 +12,9 @@
 ### Run By Yourself
 * [JupyterLab](https://jupyter.org)
   * 🢂 IDE with support for notebooks
+* [PyCharm](https://www.jetbrains.com/help/pycharm/jupyter-notebook-support.html)
+  * ✅ Great refactoring utilities
+  * ❌ Rather cumbersome to work with (output to the right in a separate tab instead of below the code cell)
 
 ### Hosted Solutions
 * [Binder](https://mybinder.org)

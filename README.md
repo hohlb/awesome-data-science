@@ -1,6 +1,8 @@
 ##  Awesome Data Science
 
 > A curated list of awesome things related to data science.
+> This mainly serves myself as a list of technologies and methods I used or intend to use.
+> See [the list of awesome lists](https://github.com/sindresorhus/awesome) for more general data science listings.
 
 ## Contents
 * [Notebooks](#notebooks)
@@ -20,10 +22,12 @@
 * [Deepnote](https://www.deepnote.com)
   * ✅ Interactive execution 
   * ✅ Real-time collaboration
+  * ✅ Commit changes to GitHub
   * ❌ Requires account
 * [Colaboratory](https://colab.research.google.com)
   * ✅ Interactive execution 
   * ✅ Notebook import from GitHub without account possible
+  * ✅ Save output to Google Drive
   * ❌ Requires account for execution
 * [nbviewer](https://nbviewer.jupyter.org)
   * ✅ Any public URL works as notebook location

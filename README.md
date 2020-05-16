@@ -7,7 +7,7 @@
 
 ## Contents
 * [Notebooks](#notebooks)
-* [Integrated Development Environments (IDEs)](#ides)
+* [Integrated Development Environments (IDEs)](#integrated-development-environments-ides)
 
 
 ## Notebooks

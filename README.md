@@ -20,10 +20,12 @@
 * [Binder](https://mybinder.org)
   * ✅ Interactive execution 
   * ✅ R is supported, incl. R Studio (web version)
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  ([Docs](https://mybinder.readthedocs.io/en/latest/howto/languages.html#the-r-language), 
-  [define packages using R](https://github.com/binder-examples/r), 
-  [define packages using conda](https://github.com/binder-examples/r-conda))
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    (see the [Docs](https://mybinder.readthedocs.io/en/latest/howto/languages.html#the-r-language) 
+    and how to define packages using
+    [R](https://github.com/binder-examples/r)
+    or
+    [conda](https://github.com/binder-examples/r-conda))
   * ✅ No account required
   * 🢂 Notebook needs to be hosted on GitHub (or similar)
   * ❌ Takes some time to rebuild after commits to the notebook

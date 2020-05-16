@@ -42,10 +42,10 @@
   * ✅ Interactive execution 
   * ✅ Notebook import from GitHub without account possible
   * ✅ Save output to Google Drive
-  * ❌ Requires account for execution
+  * ❌ Requires account for interactive execution
 * [nbviewer](https://nbviewer.jupyter.org)
   * ✅ Any public URL works as notebook location
-  * ✅ Faster than GitHub
+  * ✅ Faster than GitHub's notebook renderer
   * ❌ No interactive execution
 * [GitHub](https://github.com)
   * 🢂 Renders notebooks from repositories automatically

@@ -16,10 +16,12 @@
 * [JupyterLab](https://jupyter.org)
   * ✅ R supported
   * 🢂 IDE with support for notebooks
+* [Visual Studio Code](https://code.visualstudio.com)
+  * 🢂 IDE with support for notebooks
 * [PyCharm](https://www.jetbrains.com/help/pycharm/jupyter-notebook-support.html)
   * ✅ Great refactoring utilities
   * ❌ Rather cumbersome to work with (output to the right in a separate tab instead of below the code cell)
-
+  
 ### Hosted Solutions
 * [Binder](https://mybinder.org)
   * ✅ Interactive execution 
@@ -42,6 +44,7 @@
   * ✅ Interactive execution 
   * ✅ Notebook import from GitHub without account possible
   * ✅ Save output to Google Drive
+  * ✅ GPU available
   * ❌ Requires account for interactive execution
 * [nbviewer](https://nbviewer.jupyter.org)
   * ✅ Any public URL works as notebook location
@@ -55,10 +58,12 @@
 ##  Integrated Development Environments (IDEs)
 
 ### Run By Yourself
-* [Visual Studio Code](https://code.visualstudio.com)
 * [JupyterLab](https://jupyter.org)
+  * ✅ Supports Python & R kernels in the same project
   * ❌ Lacks good linting
   * ❌ No search/replace function (refactoring in general) across multiple files
+* [Visual Studio Code](https://code.visualstudio.com)
+  * ✅ Good blend between Notebook capabilities and traditional IDE
 * [PyCharm](https://www.jetbrains.com/pycharm/)
   * ✅ Database & SQL support
   * ❌ Only rudimentary Markdown editor

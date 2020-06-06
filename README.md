@@ -39,6 +39,7 @@
   * ✅ Interactive execution 
   * ✅ Real-time collaboration
   * ✅ Commit changes to GitHub
+  * 🢂 In Beta
   * ❌ Requires account
 * [Colaboratory](https://colab.research.google.com)
   * ✅ Interactive execution 
